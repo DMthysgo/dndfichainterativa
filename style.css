@@ -1,0 +1,16 @@
+#css{
+	background-color:transparent;
+	border-radius:2px;
+	border:2px solid #007fff;
+	cursor:pointer;
+	color:#000000;
+	font-family:Pristina;
+}
+#css:hover{
+	background-color:#87ceeb;
+}
+#css:active{
+	position:relative;
+	top:1px;
+}
+#nome{background-color:transparent;border:0px;font-family:Pristina;text-align: center}

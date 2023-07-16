@@ -4,6 +4,7 @@
 	border:2px solid #007fff;
 	cursor:pointer;
 	color:#000000;
+	background-color:#ffffff;
 	font-family:Pristina;
 	font-size:1em
 }
@@ -14,5 +15,5 @@
 	position:relative;
 	top:1px;
 }
-#nome{background-color:transparent;border:0px;font-family:Pristina;text-align: center;font-size:0.8em}
-#cara{background-color:transparent;border-radius:2px;border:2px solid #007fff;font-family:Pristina;vertical-align: top;text-align: left;font-size:0.8em}
+#nome{background-color:transparent;border:0px;font-family:Pristina;text-align: center}
+#cara{background-color:transparent;border:0px;font-family:Pristina;vertical-align: top;text-align: left}
